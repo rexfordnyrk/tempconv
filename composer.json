@@ -1,0 +1,19 @@
+{
+    "name": "rexfordnyrk/tempconv",
+    "description": "A dead simple temperature converter. Converts from C to F and vice-versa",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rexfordnyrk\\Tempconv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rexford Nyarko",
+            "email": "rexfordnyrk@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
